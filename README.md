@@ -1,0 +1,1 @@
+This repository demonstrates a common type mismatch error in Swift.  The `calculateArea` function expects integer inputs for width and height, but the provided example attempts to pass a String. The solution shows how to correctly handle this by explicitly converting the String to an Int before passing it to the function.
